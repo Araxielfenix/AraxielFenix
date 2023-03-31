@@ -1,11 +1,11 @@
-<h1 align="center">Hola 👋, soy Axell Carreño</h1>
-<h3 align="center">Programador Jr</h3>
+<h1 align="center">Hola, soy Axell Carreño</h1>
+<h3 align="center">Desarrollador de software</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=araxielfenix&label=Profile%20views&color=0e75b6&style=flat" alt="araxielfenix" /> </p>
 
 <p align="left"> <a href="https://twitter.com/araxielfenix" target="blank"><img src="https://img.shields.io/twitter/follow/araxielfenix?logo=twitter&style=for-the-badge" alt="araxielfenix" /></a> </p>
 
-- 🔭 Me encuentro aprendiendo javascript con [PixelCar](https://araxielfenix.github.io/PixelCar/inicio)
+- 🔭 Me encuentro evolucionando mis habilidades.
 
 - 🌱 Me gusta aprender diferentes lenguajes **JavaScript, CSS, HTML, C#, SQL, Apps Script y próximamente mas.**
 
