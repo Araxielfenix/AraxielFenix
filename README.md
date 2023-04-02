@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Axell Carreño</h1>
+<h1 align="center">Hola 👋, soy Axell Carreño</h1>
 <h3 align="center">Desarrollador de software</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=araxielfenix&label=Profile%20views&color=0e75b6&style=flat" alt="araxielfenix" /> </p>
